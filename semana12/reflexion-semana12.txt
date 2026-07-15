@@ -1,0 +1,12 @@
+Durante el curso aprendi que la tecnologia puede fortalecer mucho la participacion ciudadana 
+y la organizacion comunitaria.
+
+Entendi que con una base de datos podemos guardar de forma ordenada las causas y los apoyos 
+de la gente. 
+Con la autenticacion protegemos la informacion y evitamos usos indebidos.
+Las metodologias agiles nos ayudan a trabajar por partes y entregar resultados rapido.
+La automatizacion con n8n y Telegram nos ahorra tiempo avisando cuando pasa algo importante.
+Y lo mas importante: generar un PDF formal convierte el apoyo de la gente en un documento real
+ para presentar ante las autoridades.
+En resumen, unir backend, bases de datos y automatizacion hace que la comunidad se organice
+ mejor, sea mas transparente y tenga herramientas reales para hacer peticiones.

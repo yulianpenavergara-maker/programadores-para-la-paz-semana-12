@@ -1,0 +1,11 @@
+Automatizacion con n8n y Telegram
+
+Evento que activa la automatizacion: Cuando una causa alcanza 100 apoyos registrados.
+
+Mensaje que se envia a Telegram: 
+"Alerta: La causa 'Reparar el parque del barrio' ya alcanzo 100 apoyos. Se puede generar
+ la peticion formal en PDF."
+
+Informacion que NO debe enviarse por seguridad:
+Cedulas, telefonos, direcciones exactas, correos personales, comentarios sensibles o
+ cualquier dato personal de los ciudadanos que apoyaron.
